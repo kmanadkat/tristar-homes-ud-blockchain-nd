@@ -78,6 +78,9 @@ Compiling your contracts...
 ```
 
 ### Main Contract ABI - SolnSquareVerifier
+
+(To get ABI for other contracts, please run `truffle compile` in `eth-contracts` folder and find it in `eth-contracts/build/contracts` folder respectively.)
+
 ```json
 {
 "abi": [
