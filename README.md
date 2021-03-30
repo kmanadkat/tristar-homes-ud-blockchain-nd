@@ -8,6 +8,20 @@ OpenSea is a decentralized marketplace that is used for selling for crypto asset
 
 
 
+### Table of Index
+
+1. [Project Dependencies Version](#project-dependencies-version)
+2. [Main Contract ABI - SolnSquareVerifier](#main-contract-abi---solnsquareverifier)
+3. [Zokrates Verifier.sol Generation](#zokrates-verifiersol-generation)
+4. [Multiple Proofs Generation](#multiple-proofs-generation)
+5. [Project Deployment on Rinkeby](#project-deployment-on-rinkeby)
+6. [Rinkeby Contracts & Tokens](#rinkeby-contracts--tokens)
+7. [OpenSea Market Place NFTs](#opensea-market-place-nfts)
+8. [Buying OpenSea NFT](#buying-opensea-nft)
+9. [Project Resources](#project-resources)
+
+
+
 ### Project Dependencies Version
 
 ```shell
